@@ -1,5 +1,9 @@
 # Midnight Fridge Roast
 
+[![make.fun](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7.svg)](https://make.fun/c/u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![rank](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/ikiroki15-web/u-carbon-forge-midnight-fridge-roast-fc5d44a7/rank.svg)](https://make.fun/c/u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![reward](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/ikiroki15-web/u-carbon-forge-midnight-fridge-roast-fc5d44a7/reward.svg)](https://make.fun/c/u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+
 Entry for the make.fun bounty **Midnight Fridge Roast**
 (`u-carbon-forge-midnight-fridge-roast-fc5d44a7`): one line of text,
 roasting a smart fridge that refuses to open after midnight. An AI
